@@ -72,4 +72,5 @@ endmodule
 ![image](https://github.com/user-attachments/assets/7586bd7c-435f-45f1-8d75-054a85a46a52)
 
 **RESULTS**
+
 SISO Shift Register using verilog and validating their functionality using their functional tables has successful execution of the program.
